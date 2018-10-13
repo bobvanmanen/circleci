@@ -1,0 +1,22 @@
+{
+  "name": "circleci",
+  "version": "1.0.0",
+  "description": "CircleCI test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobvanmanen/circleci.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bobvanmanen/circleci/issues"
+  },
+  "homepage": "https://github.com/bobvanmanen/circleci#readme",
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}
